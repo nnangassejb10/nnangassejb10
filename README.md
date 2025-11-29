@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-**nnangassejb10/nnangassejb10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # 💫 About Me:
 Software developer passionate about digital technologies, I enjoy designing modern, efficient, and user-centered solutions. Always motivated to learn and explore new tools, I constantly work on improving my skills and contributing to projects that have a real impact.
