@@ -1,18 +1,12 @@
-<!-- Banner / Header -->
+# 💫 About Me:
+Software developer passionate about digital technologies, I enjoy designing modern, efficient, and user-centered solutions. Always motivated to learn and explore new tools, I constantly work on improving my skills and contributing to projects that have a real impact.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="700"/>
 </p>
 
 <h1 align="center">Hi there 👋, I'm Gloire</h1>
 <h3 align="center">Software Developer | Tech Enthusiast | Active Builder</h3>
-
----
-
-## 💫 About Me
-Software developer passionate about digital technologies. I enjoy designing modern, efficient, and user-centered solutions.  
-Always motivated to learn and explore new tools, I constantly work on improving my skills and contributing to projects that have a real impact.
-
----
 
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/GloireJbNnang)  
