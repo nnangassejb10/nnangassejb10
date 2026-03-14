@@ -34,6 +34,7 @@ Software developer passionate about digital technologies, I enjoy designing mode
 ![](https://github-readme-stats.vercel.app/api?username=nnangassejb10&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=nnangassejb10&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nnangassejb10&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![committers.top badge](https://user-badge.committers.top/gabon/nnangassejb10.svg)](https://user-badge.committers.top/gabon/nnangassejb10)
 
 > Ces badges peuvent être mis à jour manuellement lorsque tu auras plus de commits, issues, PRs ou followers.
 
