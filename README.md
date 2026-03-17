@@ -17,6 +17,7 @@ Passionné par le développement logiciel et les technologies numériques, je co
 ## 🛠️ Stack technique
 
 ### 💻 Langages
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 C • C++ • Java • JavaScript • Python
 
