@@ -47,7 +47,7 @@ Passionné par le développement logiciel et les technologies numériques, je co
 
 ---
 
-## 🏆 Classement développeur au niveau national (Gabon)
+## 🏆 Classement développeur au niveau national (Gabon) 🇬🇦
 
 [![committers.top badge](https://user-badge.committers.top/gabon/nnangassejb10.svg)](https://user-badge.committers.top/gabon/nnangassejb10)
 
