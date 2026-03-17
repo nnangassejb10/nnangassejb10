@@ -1,53 +1,76 @@
-# 💫 About Me:
-Software developer passionate about digital technologies, I enjoy designing modern, efficient, and user-centered solutions. Always motivated to learn and explore new tools, I constantly work on improving my skills and contributing to projects that have a real impact.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="700"/>
-</p>
+# 👨‍💻 Gloire Nnang
 
-<h1 align="center">Hi there 👋, I'm Gloire</h1>
-<h3 align="center">Software Developer | Tech Enthusiast | Active Builder</h3>
+## 🚀 Software Developer | Tech Enthusiast
 
-## 🌐 Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/GloireJbNnang)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gloire-jb-nnang-asse)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nnangloirejb@gmail.com)
+Passionné par le développement logiciel et les technologies numériques, je conçois des solutions modernes, performantes et centrées sur l’utilisateur. Je suis constamment en train d’apprendre, d’expérimenter et de contribuer à des projets concrets à impact.
 
 ---
 
-## 💻 Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+## 🌐 Me contacter
+
+* 🔗 LinkedIn : [https://linkedin.com/in/gloire-jb-nnang-asse](https://linkedin.com/in/gloire-jb-nnang-asse)
+* 📧 Email : [nnangloirejb@gmail.com](mailto:nnangloirejb@gmail.com)
+* 📘 Facebook : [https://facebook.com/GloireJbNnang](https://facebook.com/GloireJbNnang)
 
 ---
 
-## 📊 GitHub Activity (Badges fiables)
-![](https://github-readme-stats.vercel.app/api?username=nnangassejb10&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nnangassejb10&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nnangassejb10&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🛠️ Stack technique
+
+### 💻 Langages
+
+C • C++ • Java • JavaScript • Python
+
+### 🌐 Frontend
+
+HTML • CSS • React
+
+### ⚙️ Backend
+
+Node.js • Django
+
+### 🗄️ Base de données
+
+MySQL
+
+---
+
+## 📊 Statistiques GitHub
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nnangassejb10\&show_icons=true\&theme=dark\&hide_border=true\&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=nnangassejb10\&theme=dark\&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nnangassejb10\&layout=compact\&theme=dark\&hide_border=true)
+
+---
+
+## 🏆 Classement développeur
+
 [![committers.top badge](https://user-badge.committers.top/gabon/nnangassejb10.svg)](https://user-badge.committers.top/gabon/nnangassejb10)
 
-> Ces badges peuvent être mis à jour manuellement lorsque tu auras plus de commits, issues, PRs ou followers.
+---
+
+## 🎯 Objectifs actuels
+
+* Renforcer mes compétences en développement full-stack
+* Contribuer à des projets open source
+* Construire des applications utiles et évolutives
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nnangassejb10&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
-</p>
+## 📌 Projets en cours
+
+* Développement d’applications web modernes
+* Expérimentation avec React et Node.js
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nnangassejb10&color=blue" alt="Profile views"/>
-</p>
+## 👀 Visites du profil
 
+![Profile views](https://komarev.com/ghpvc/?username=nnangassejb10\&label=Profile%20views\&color=0e75b6\&style=flat)
+
+---
+
+## ⚡ Fun fact
+
+J’aime transformer des idées simples en solutions concrètes et utiles.
