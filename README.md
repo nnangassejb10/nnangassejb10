@@ -4,7 +4,7 @@
 
 Passionné par le développement logiciel et les technologies numériques, je conçois des solutions modernes, performantes et centrées sur l’utilisateur. Je suis constamment en train d’apprendre, d’expérimenter et de contribuer à des projets concrets à impact.
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------ <p align="center"> <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="700"/> </p> <h1 align="center">Hi there 👋, I'm Gloire</h1> <h3 align="center">Software Developer | Tech Enthusiast | Active Builder</h3>
+--------------------------------------------------------------------------------------------------------------------------------------------------------------- <p align="center"> <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="700"/> </p> <h1 align="center">Hi there 👋, I'm Gloire</h1> <h3 align="center">Software Developer | Tech Enthusiast | Active Builder</h3>
 
 ## 🌐 Me contacter
 
@@ -25,7 +25,6 @@ Passionné par le développement logiciel et les technologies numériques, je co
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-HTML • CSS • React
 
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
@@ -47,7 +46,7 @@ HTML • CSS • React
 
 ---
 
-## 🏆 Classement développeur
+## 🏆 Classement développeur au niveau national (Gabon)
 
 [![committers.top badge](https://user-badge.committers.top/gabon/nnangassejb10.svg)](https://user-badge.committers.top/gabon/nnangassejb10)
 
