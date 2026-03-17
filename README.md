@@ -4,7 +4,7 @@
 
 Passionné par le développement logiciel et les technologies numériques, je conçois des solutions modernes, performantes et centrées sur l’utilisateur. Je suis constamment en train d’apprendre, d’expérimenter et de contribuer à des projets concrets à impact.
 
----
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------- <p align="center"> <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="700"/> </p> <h1 align="center">Hi there 👋, I'm Gloire</h1> <h3 align="center">Software Developer | Tech Enthusiast | Active Builder</h3>
 
 ## 🌐 Me contacter
 
@@ -28,12 +28,12 @@ Passionné par le développement logiciel et les technologies numériques, je co
 HTML • CSS • React
 
 ### ⚙️ Backend
-
-Node.js • Django
+![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 ### 🗄️ Base de données
 
-MySQL
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
