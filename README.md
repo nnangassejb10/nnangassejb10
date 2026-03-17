@@ -4,7 +4,8 @@
 
 Passionné par le développement logiciel et les technologies numériques, je conçois des solutions modernes, performantes et centrées sur l’utilisateur. Je suis constamment en train d’apprendre, d’expérimenter et de contribuer à des projets concrets à impact.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------- <p align="center"> <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="700"/> </p> <h1 align="center">Hi there 👋, I'm Gloire</h1> <h3 align="center">Software Developer | Tech Enthusiast | Active Builder</h3>
+---------------------------------------------------------------------------------------------------------------------------------------------------
+<p align="center"> <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="700"/> </p> <h1 align="center">Hi there 👋, I'm Gloire</h1> <h3 align="center">Software Developer | Tech Enthusiast | Active Builder</h3>
 
 ## 🌐 Me contacter
 
