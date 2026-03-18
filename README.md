@@ -45,6 +45,7 @@ Passionné par le développement logiciel et les technologies numériques, je co
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nnangassejb10\&layout=compact\&theme=dark\&hide_border=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nnangassejb10&show_icons=true&theme=tokyonight)
+![Metrics](https://metrics.lecoq.io/nnangassejb10?template=classic&base.activity=1&base.community=1&base.repositories=1&config.timezone=Africa%2FLibreville)
 
 
 ---
