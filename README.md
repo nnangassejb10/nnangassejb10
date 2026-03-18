@@ -44,6 +44,8 @@ Passionné par le développement logiciel et les technologies numériques, je co
 ![GitHub Streak](https://streak-stats.demolab.com?user=nnangassejb10\&theme=dark\&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nnangassejb10\&layout=compact\&theme=dark\&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nnangassejb10&show_icons=true&theme=tokyonight)
+
 
 ---
 
